@@ -1,0 +1,50 @@
+.employee-registration {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 40px auto;
+}
+
+.employee-registration h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.employee-registration form {
+    display: flex;
+    flex-direction: column;
+}
+
+.employee-registration label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #555;
+}
+
+.employee-registration input {
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.employee-registration button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.employee-registration button:hover {
+    background-color: #0056b3;
+}

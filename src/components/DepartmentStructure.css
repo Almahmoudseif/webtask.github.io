@@ -1,0 +1,29 @@
+/* src/components/DepartmentStructure.css */
+.department-structure {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.department-structure h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.department-structure p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
+
+.login-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-button:hover {
+    background-color: #0056b3;
+}

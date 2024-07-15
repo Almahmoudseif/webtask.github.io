@@ -1,0 +1,23 @@
+/* LeaveAdministration.css */
+
+.leave-admin-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f8e9; /* Light green background */
+    border: 1px solid #aed581; /* Light green border */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.leave-admin-container h3 {
+    font-size: 28px; /* Larger font size for the heading */
+    margin-bottom: 10px; /* Space below the heading */
+    color: #33691e; /* Dark green color for the heading */
+}
+
+.leave-admin-container p {
+    font-size: 18px; /* Medium font size for the paragraph */
+    color: #558b2f; /* Medium green color for the paragraph */
+}
